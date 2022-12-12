@@ -1,6 +1,20 @@
 .App {
   text-align: center;
+  background-color: goldenrod;
 }
+
+body {
+  background-image: url('././images/wp3208977-dollars-wallpaper.jpg');
+}
+
+.title {
+  text-align: center;
+  text-decoration: underline;
+  color: #153438;
+  font-size: 50px;
+  text-shadow: 1px 0 0 white, 0 -1px 0 white, 0 1px 0 white, -1px 0 0 white;
+}
+
 
 .App-logo {
   height: 40vmin;
